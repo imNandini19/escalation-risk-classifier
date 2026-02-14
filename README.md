@@ -2,13 +2,13 @@
 
 > AI-powered system to predict high-risk customer complaints requiring immediate attention
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](your-app-url-here)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://escalation-risk-classifier.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-[🔗 Live Demo](your-streamlit-url) | [📊 View Notebook](Customer_escalation_risk_classifier.ipynb)
+[🔗 Live Demo](https://escalation-risk-classifier.streamlit.app/) | [📊 View Notebook](Customer_escalation_risk_classifier.ipynb)
 
 ---
 

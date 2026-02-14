@@ -39,7 +39,7 @@ ENV/
 .DS_Store
 
 # Data files (don't commit large datasets)
-*.csv
+
 *.xlsx
 *.json
 data/

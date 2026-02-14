@@ -1,0 +1,8 @@
+complaint,escalation_probability,risk_level,risk_category
+This company committed fraud and refuses to refund my money.,0.9999995530510836,1,HIGH
+I have a question about my monthly fee.,0.023321177979150363,0,LOW
+They are SCAMMING people! I'm contacting my attorney IMMEDIATELY!,0.9999999346905231,1,HIGH
+Thank you for the quick response to my inquiry.,0.01548544817618611,0,LOW
+i am going to file a complaint on your fraud service,0.9999999715816349,1,HIGH
+every e-commerce platform need to learn from your team to improve their services,0.04495808512657047,0,LOW
+i loved your service and want to get you more in future,0.0321534440902438,0,LOW
